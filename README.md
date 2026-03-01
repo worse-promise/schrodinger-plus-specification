@@ -1,8 +1,8 @@
 <img src="https://avatars.githubusercontent.com/u/264871303?s=200&v=4" alt="The Worse Promises/S+ logo">
 
-# Worse Promises/S+ Official Specification
+# Worse Promises/Schrödinger+ Official Specification
 
-This is the official specification for Worse Promises/S+ promises. All implementations of worse promises (like [our official one](https://github.com/worse-promise/node-worse-promise) for Node.js) should adhere to this spec.
+This is the official specification for Worse Promises/Schrödinger+ promises. All implementations of worse promises (like [our official one](https://github.com/worse-promise/node-worse-promise) for Node.js) should adhere to this spec.
 
 ## `WorsePromise` class
 This is the actual `WorsePromise` class that this specification defines.
